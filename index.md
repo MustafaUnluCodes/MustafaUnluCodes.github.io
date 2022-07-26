@@ -11,3 +11,9 @@
 <div>
 <strong> This is a minor change in release 1.0 </strong>
 <div>
+
+<p/>
+
+<div>
+<strong> This is a hotfix </strong>
+<div>
